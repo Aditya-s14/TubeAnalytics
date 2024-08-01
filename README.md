@@ -1,7 +1,7 @@
 # TubeAnalytics
 
 TubeAnalytics
-This project, collaboratively developed with Aditya-s14, analyzes trending YouTube videos from 2019 to 2020. It focuses on uncovering patterns in user activity and determining which video trends peaked during this period. Our analysis utilizes various machine learning models to derive insights and enhance prediction accuracy.
+This project, collaboratively developed with harshr2135, analyzes trending YouTube videos from 2019 to 2020. It focuses on uncovering patterns in user activity and determining which video trends peaked during this period. Our analysis utilizes various machine learning models to derive insights and enhance prediction accuracy.
 
 ## Project Overview
 The primary objectives of this project are to:
